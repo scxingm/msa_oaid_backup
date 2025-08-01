@@ -1,0 +1,2 @@
+# msa_oaid_backup
+移动安全联盟MSA发行的各OAID插件版本备份
